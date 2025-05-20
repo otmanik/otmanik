@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name] — .NET Developer
+# 👋 Hi, I'm Othmane — FullStack .NET Developer
 
-I'm a passionate and experienced **.NET Developer** with a focus on building scalable, maintainable, and performant backend systems. With over [X years] of professional experience, I specialize in crafting clean and efficient APIs, integrating modern frontend technologies, and delivering full-stack solutions.
+I'm a passionate and experienced **.NET Developer** with a focus on building scalable, maintainable, and performant backend systems. With over 6 years of professional experience, I specialize in crafting clean and efficient APIs, integrating modern frontend technologies, and delivering full-stack solutions.
 
 ---
 
